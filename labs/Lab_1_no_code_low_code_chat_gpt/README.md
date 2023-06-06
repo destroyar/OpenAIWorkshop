@@ -52,7 +52,7 @@ After the deployment you should see two new items in your resource group
 
    ![](../../documents/images/lab-1-logicapp-2.png)
 
-Expand the first box "When an HHTP is received" and copy the URL to your text editor
+Expand the first box "When an HTTP is received" and copy the URL to your text editor
 
 ![](../../documents/images/lab-1-logicapp-3.png)
 
@@ -73,6 +73,10 @@ Scroll down to the action box with the outlook logo and expand it to enter new a
 Scroll down to the condition option and expand it, then expand the true option. There select the valid connection to send the final notification in this logic app.
 
 ![](../../documents/images/lab-1-logicapp-6.png)
+
+Scroll up to the "Send email with options" and change the email in the "To" section to the email address that should receive the automated email:
+
+![](../../documents/images/lab-1-EndUserEmailAddress.png)
 
 Save the logic app
 
@@ -115,3 +119,4 @@ I can't login into my account, I need to reset my password, also my keyboard is 
 
 Thank you
 _______________________________________________________________
+
