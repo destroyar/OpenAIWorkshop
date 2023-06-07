@@ -83,7 +83,7 @@
                                             "Body": "<p>Hello,<br>\n<br>\nThank you for reaching out to us. Support ticket No. 456454 has been created for you. We should contact you shortly</p>",
                                             "Importance": "Normal",
                                             "Subject": "Support ticket No. 456454 ",
-                                            "To": "@triggerBody()?['emailto']"
+                                            "To": "@triggerBody()?['email']"
                                         },
                                         "host": {
                                             "connection": {
