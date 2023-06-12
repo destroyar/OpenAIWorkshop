@@ -41,8 +41,7 @@ In this step you are going to perform the following actions to deploy and config
 - Enter OpenAI authentication credentials
 - Configure your connection to Outlook
 
-
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft-USEduAzure%2FOpenAIWorkshop%2Fmaster%2Flabs%2FLab_1_no_code_low_code_chat_gpt%2Fscripts%2Fopen_ai_integration%2Ftemplate.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft-USEduAzure%2FOpenAIWorkshop%2Fmain%2Flabs%2FLab_1_Automate_Mailbox_Responses%2Fscripts%2Fopen_ai_integration%2Ftemplate.json)
 
 After the deployment you should see two new items in your resource group
 
